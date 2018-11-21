@@ -1,0 +1,4 @@
+﻿C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Super-Galton-Brett (DESKTOP-5GLHIJLs in Konflikt stehende Kopie 2016-05-23).vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Super-Galton-Brett.cpp
+c:\users\manuel\dropbox\programmieren\c++\super-galton-brett\super-galton-brett\super-galton-brett.cpp(39): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+  Super-Galton-Brett.vcxproj -> C:\Users\Manuel\Dropbox\Programmieren\C++\Super-Galton-Brett\Debug\Super-Galton-Brett.exe
